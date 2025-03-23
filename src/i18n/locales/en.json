@@ -122,7 +122,8 @@
       "byArtist": "Songs by {{artist}}",
       "filter": {
         "clear": "Clear filter"
-      }
+      },
+      "shuffleAll": "Shuffle All"
     }
   },
   "album": {
