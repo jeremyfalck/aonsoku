@@ -33,7 +33,7 @@ export function useSongList() {
   }
 
   async function getAllSongs(): Promise<ISong[]> {
-    return await subsonic.songs.getAllSongs(1000);
+    return await subsonic.songs.getAllSongs(9999999);
   }
 
   return {
